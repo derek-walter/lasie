@@ -1,0 +1,2 @@
+# spontaneous-squash
+Other Bot
